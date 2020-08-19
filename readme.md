@@ -1,26 +1,9 @@
-# Curated overviews:
-- [ruby on rails guide to learning](https://github.com/railslink/resources/wiki/Guide-to-Learning-Ruby-on-Rails)
-- [awesome ruby](https://github.com/sdogruyol/awesome-ruby)
-- [awesome rails](https://github.com/ekremkaraca/awesome-rails)
-- [awesome rails gems](https://github.com/hothero/awesome-rails-gem)
-
-# Advanced:
-- [resources to learn advanced rails](https://www.reddit.com/r/rails/comments/bwigna/resources_to_learn_advanced_rails/)
-
 # Tools that save me time
-bug & error monitoring:
+
+Bug & error monitoring:
 - https://sentry.io
 
-mobile & browser testing
-- https://www.browserstack.com/
-
-Simulate mobile screens (iphone / ipad)
-- Simulator within xcode
-
-analytics
-- https://datastudio.google.com (loads faster than GA)
-
-subscribing to newsletters via rss (I use https://feedly.com)
+Subscribing to newsletters via rss (I use https://feedly.com)
 - https://kill-the-newsletter.com
 
 Multiple gmail inboxes, slacks, whatsapp and telegram
@@ -37,6 +20,24 @@ Css gradient:
 
 Using browser features
 - http://caniuse.com
+
+Mobile & browser testing
+- https://www.browserstack.com/
+
+Simulate mobile screens (iphone / ipad)
+- Simulator within xcode
+
+# Commands
+
+- Kill rails server on port 3000: `sudo kill -9 $(lsof -i :3000 -t)`
+
+# Curated overviews:
+
+- [ruby on rails guide to learning](https://github.com/railslink/resources/wiki/Guide-to-Learning-Ruby-on-Rails)
+- [resources to learn advanced rails](https://www.reddit.com/r/rails/comments/bwigna/resources_to_learn_advanced_rails/)
+- [awesome ruby](https://github.com/sdogruyol/awesome-ruby)
+- [awesome rails](https://github.com/ekremkaraca/awesome-rails)
+- [awesome rails gems](https://github.com/hothero/awesome-rails-gem)
 
 # Ruby on Rails
 
@@ -57,6 +58,7 @@ Using browser features
 - [Ruby course on Sololearn](https://www.sololearn.com/Course/Ruby)
 - [RubyThursday](https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A/videos)
 - [Best Ruby & Ruby on Rails Resources](https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources)
+- [The Odin Project](https://www.theodinproject.com/tracks/1)
 
 # Copy Companies
 
@@ -71,15 +73,18 @@ Using browser features
 - [Speedshop](https://www.speedshop.co/blog)
 - [Website speed test](https://tools.pingdom.com)
 
-# Tools
+# Documentation
 
+- [DevDocs API Documentation](http://devdocs.io)
+- [Schema.org](https://schema.org/docs/schemas.html)
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
-- [Caniuse.com](http://caniuse.com)
+- [Http Status Codes](https://httpstatuses.com)
 - [Screensiz.es](http://screensiz.es)
+
+# Regex
+
 - [RegExr](http://regexr.com)
 - [Online regex tester and debugger](http://regex101.com)
-- [http Status Codes](https://httpstatuses.com)
-- [DevDocs API Documentation](http://devdocs.io)
 
 # Exercises
 
@@ -159,7 +164,7 @@ Using browser features
 - [Computer science](https://www.khanacademy.org/computing/computer-science)
 - [Computer Science Courses](https://www.edx.org/course/subject/computer-science)
 
-# Forums
+# Forum software
 
 - [Online Community Software and Platforms](https://www.feverbee.com/communityplatforms)
 
@@ -179,6 +184,18 @@ Using browser features
 - [25 Pitfalls When Learning to Program](http://programmingzen.com/pitfalls-when-learning-to-program)
 - [Designer, Architect, Developer](http://tom.preston-werner.com/2010/12/11/designer-architect-developer.html)
 
-# History
-- [Why the Web Won't Be Nirvana](http://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306?amp=1)
-- [Byte magazine 1979](https://ia902603.us.archive.org/30/items/byte-magazine-1979-08/1979_08_BYTE_04-08_LISP.pdf)
+# Monitoring & Analytics
+
+- [Posthog - product analytics](https://github.com/PostHog/posthog)
+- [Checkly](https://www.checklyhq.com/)
+
+# Drawing
+
+- [Draw.io](https://app.diagrams.net/)
+- [Excalidraw - Draw in browser](http://excalidraw.com) 
+
+# Automating
+
+- [crontab](https://crontab.guru/)
+- [Cronitor](https://cronitor.io/)
+- [Cronhub](https://cronhub.io/)
