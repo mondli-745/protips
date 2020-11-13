@@ -25,10 +25,10 @@ Content of `foobar.js.erb`:
 
 Perhaps possible to extract partial from current view
 
-`partial_name.html.erb`
+`_partial_name.html.erb`
 
 Add this back in the view with
 
-`<%= render "partial_name” %> `
+`<%= render "partial_name" %>`
 
 Done.
