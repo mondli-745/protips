@@ -43,6 +43,7 @@ To prevent your heroku to sleep at business hours:
 
 - Kill rails server on port 3000: `sudo kill -9 $(lsof -i :3000 -t)`
 - Show development log: `tail -f log/development.log`
+- `heroku logs --tail --app name`
 - add a string to a file: `echo 'text to add' >> file.type`
 
 ### Random:
